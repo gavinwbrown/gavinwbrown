@@ -15,7 +15,7 @@ ago. Sometimes though you simply have to take a chance and go for it.
 
 ### - 👀 I’m interested in ...
 
-Connecting with anybody that can help me achieve my goals plus if you have an
+Connecting with anybody that can help me on my journey plus if you have an
 interest in playing guitar, extreme metal or K-pop (I know, a strange combination)
 , sci-fi/fantasy and in particular Dr. Who we should probably have a chat at 
 some point.
@@ -23,22 +23,24 @@ some point.
 ### - 🌱 I’m currently learning ...
 
 HTML, CSS (incl. Bootstrap), Javascript, Python, Flask, Jinja, SQL Alchemy, PostgreSQL, and Django.
+
 ### - 💞️ I’m looking to collaborate on ...
 
-Anything that will enable me to improve my portfolio and 
-rapidly gain experience in the field of web development.
+Any project big or small, paid or unpaid that allows me to expand my knowledge of coding.
 
 ### - 📫 How to reach me ...
 
-**email:** *gavin.brown@4uxdesign.com*
+If you have a project that you think I can help with then feel free to reach me by...
 
-**mob:** 07423463521
+**e:** *gavin.brown@4uxdesign.com*
+
+**m:** 07423463521
 
 <a href="https://www.linkedin.com/in/gavinwbrown/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linked-in" loading="lazy" width="115" height="28"></a>
 
 <a href="https://github.com/thespamster"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s---yDJLJ2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/GitHub-000000%3Fstyle%3Dfor-the-badge%26logo%3DGitHub%26logoColor%3Dwhite" alt="github" loading="lazy" width="115" height="28"></a>
 
-Get my current <a href="https://www.4uxdesign.com/" target="_blank">CV</a>
+Get my current <a href="https://www.4uxdesign.com/" target="_blank">CV</a> here.
 
 <!---
 thespamster/thespamster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
