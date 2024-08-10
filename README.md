@@ -3,15 +3,12 @@
 
 # - 👋 Hi, I’m @thespamster
 
-I am currently studying for a Level 5 Diploma in Web Application Development
-through the Code Institute affiliated with The College Of West Anglia. This is 
-all very new to me as my course started on the 18/05/23 having taken the five day
-coding challenge. Within a week of taking the challenge I had a student loan in 
-place, enrolled and started my coding journey. Circumstance has moved quickly and
-I recently took the decision to start my own business '4uxdesign' and having
-secured some startup funding and a potential source of leads life has become
-more interesting than I could have possibly imagined just a few short months 
-ago. Sometimes though you simply have to take a chance and go for it.
+I studied for a Level 5 Diploma in Web Application Development
+through the Code Institute affiliated with The College Of West Anglia.
+Circumstance has moved quickly and I took the decision to start
+my own business '4uxdesign' and become a freelance full-stack web
+developer. Life has become more interesting than I could have possibly
+imagined. Sometimes though you simply have to take a chance and go for it.
 
 ### - 👀 I’m interested in ...
 
@@ -20,7 +17,7 @@ interest in playing guitar, extreme metal or K-pop (I know, a strange combinatio
 , sci-fi/fantasy and in particular Dr. Who we should probably have a chat at 
 some point.
 
-### - 🌱 I’m currently learning ...
+### - 🌱 I have learned the following ...
 
 HTML, CSS (incl. Bootstrap), Javascript, Python, Flask, Jinja, SQL Alchemy, PostgreSQL, and Django.
 
