@@ -37,7 +37,7 @@ If you have a project that you think I can help with then feel free to reach me 
 
 <a href="https://github.com/thespamster"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s---yDJLJ2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/GitHub-000000%3Fstyle%3Dfor-the-badge%26logo%3DGitHub%26logoColor%3Dwhite" alt="github" loading="lazy" width="115" height="28"></a>
 
-Get my current <a href="https://www.4uxdesign.com/" target="_blank">CV</a> here.
+Get my current CV from my website <a href="https://www.4uxdesign.com/" target="_blank">4uxdesign</a>
 
 <!---
 thespamster/thespamster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
