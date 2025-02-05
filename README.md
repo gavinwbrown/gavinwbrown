@@ -1,18 +1,18 @@
 <img src="https://i.imgur.com/C6CbI9m.png">
 
 
-# - 👋 Hi, I’m @thespamster
+# - 👋 Hi, I’m Gavin Brown aka. @thespamster
 
 I studied for a Level 5 Diploma in Web Application Development
 through the Code Institute affiliated with The College Of West Anglia.
-Circumstance has moved quickly and I took the decision to start
+Circumstance has moved quickly and I decided to start
 my own business '4uxdesign' and become a freelance full-stack web
 developer. Life has become more interesting than I could have possibly
-imagined. Sometimes though you simply have to take a chance and go for it.
+imagined. Sometimes though you have to take a chance and go for it.
 
 ### - 👀 I’m interested in ...
 
-Connecting with anybody that can help me on my journey plus if you have an
+Connecting with anybody who can help me on my journey plus if you have an
 interest in playing guitar, extreme metal or K-pop (I know, a strange combination)
 , sci-fi/fantasy and in particular Dr. Who we should probably have a chat at 
 some point.
