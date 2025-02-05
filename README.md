@@ -19,7 +19,7 @@ some point.
 
 ### - 🌱 I have learned the following ...
 
-HTML, CSS (incl. Bootstrap,Tailwind), Javascript, Python, Flask, Jinja, SQL Alchemy, PostgreSQL, Django and more
+HTML, CSS (incl. Bootstrap,Tailwind), Javascript, Python, Flask, Jinja, SQL Alchemy, PostgreSQL, Django and more.
 
 ### - 💞️ I’m looking to collaborate on ...
 
