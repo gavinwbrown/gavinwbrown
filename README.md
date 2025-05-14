@@ -1,3 +1,7 @@
-## Nothing here yet...
+# Here You Will Find Some Interesting Things About Me
 
-Will add to this part of my profile when I can
+I am a Tech and Science enthusiast. I love coding, either building websites or projects using Raspberry Pi single board PCs.
+
+This is my personal site [gavinbrown.info](www.gavinbrown.info) 
+
+** It's not up and running yet, but will be soon. **
